@@ -103,3 +103,8 @@ Penetration testing fundamentals
 Encryption and secure data handling
 
 These projects strengthened my understanding of real-world security challenges and prepared me for advanced roles in cybersecurity and software development.
+
+
+#Output
+#Task1
+<img width="941" height="246" alt="Image" src="https://github.com/user-attachments/assets/b3fbf8cd-8968-4266-b819-8c5df605a682" />
