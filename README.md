@@ -106,5 +106,10 @@ These projects strengthened my understanding of real-world security challenges a
 
 
 #Output
-#Task1
+
 <img width="941" height="246" alt="Image" src="https://github.com/user-attachments/assets/b3fbf8cd-8968-4266-b819-8c5df605a682" />
+<img width="944" height="448" alt="Image" src="https://github.com/user-attachments/assets/349d8614-6ca1-4fa1-8954-f36bf6b8ef74" />
+<img width="983" height="471" alt="Image" src="https://github.com/user-attachments/assets/d1420661-2832-4668-896e-e9a097310d16" />
+<img width="597" height="284" alt="Image" src="https://github.com/user-attachments/assets/21d04a3f-dd8e-40b1-8b87-0f8e004de673" />
+<img width="966" height="471" alt="Image" src="https://github.com/user-attachments/assets/b8c42b49-96e8-48dc-b3aa-e08446e5dc2e" />
+<img width="965" height="448" alt="Image" src="https://github.com/user-attachments/assets/14bfd172-038a-4bee-b1f3-4297e030b4ec" />
